@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Credentials
+credentials.json
+
+# Env files
+.env
+
+# OS
+.DS_Store
