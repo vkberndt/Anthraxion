@@ -60,6 +60,7 @@ VERDICT_CHOICES = [
     app_commands.Choice(name="Reminder", value="Reminder"),
     app_commands.Choice(name="Strike", value="Strike"),
     app_commands.Choice(name="Warning", value="Warning"),
+    app_commands.Choice(name="Ban", value="Ban"),
 ]
 
 PLAYER_INFORMED_CHOICES = [
